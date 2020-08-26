@@ -1,5 +1,17 @@
 .w_97 {
-  width: 97%;
+  width: 99%;
+}
+
+.w_25 {
+  width: 24.8%;
+}
+
+.h_120 {
+  height: 105vh;
+}
+
+.h_70 {
+  height: 170px;
 }
 
 .mar_auto {
@@ -7,5 +19,23 @@
 }
 
 .first_div {
-  background-image: url("images/main.png");
+  margin-bottom: 2px;
+  height: 75%;
+  background: url("/images/apple01.jpg") ;
+  background-size: auto;
+  background-position: -200px -780px;
+  
+}
+
+.d_flex {
+  display: flex;
+}
+ 
+.smal_img {
+  width: 100%;
+  height: 100%;
+}
+
+.space_btw {
+  justify-content: space-between;
 }
