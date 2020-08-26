@@ -1,5 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 .w_97 {
-  width: 99%;
+  width: 94%;
 }
 
 .w_25 {
@@ -21,21 +26,58 @@
 .first_div {
   margin-bottom: 2px;
   height: 75%;
-  background: url("/images/apple01.jpg") ;
+  background: url("/Apple-Page-Clone/images/apple01.jpg") 0px -750px no-repeat;
   background-size: auto;
-  background-position: -200px -780px;
-  
 }
 
 .d_flex {
   display: flex;
 }
- 
+
 .smal_img {
-  width: 100%;
   height: 100%;
 }
 
 .space_btw {
   justify-content: space-between;
+}
+
+.w_100 {
+  width: 100%;
+}
+
+.w_60 {
+  width: 70%;
+}
+
+.footercontent {
+  width: 50%;
+  color: rgb(97, 97, 97);
+  font-size: 0.8rem;
+}
+
+.footercontent2 a {
+  border-right: 1px solid gray;
+  margin-right: 4px;
+  padding-right: 4px;
+}
+
+.mar_bot {
+  margin: 20px auto;
+}
+
+.col_blu {
+  color: #23739b;
+  text-decoration: none;
+}
+
+.border-right {
+  margin-left: 4px;
+  border-right: 1px solid gray;
+  margin-right: 4px;
+  padding-right: 4px;
+}
+
+.marg_top {
+  margin-top: 8px;
 }
