@@ -1,12 +1,12 @@
-# Apple-Page-Clone
-
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Clone WebPage of Apples previous website
+# Apple page clone
 
-![screenshot](./Images/ss.png)
+Clone WebPage of Old Apple website
 
-tried to clone the webpage of New York times.
+![screenshot](/images/ss.png)
+
+tried to clone the webpage of old Apple.
 
 ## Built With
 
