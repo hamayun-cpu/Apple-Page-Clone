@@ -1,0 +1,153 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.w_25 {
+  width: 24.8%;
+}
+
+.h_120 {
+  height: 105vh;
+}
+
+.h_70 {
+  height: 170px;
+}
+
+.mar_auto {
+  margin: 0 auto;
+}
+
+.first_div {
+  margin-bottom: 2px;
+  height: 75%;
+  background: url("../images/apple01.jpg");
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: 100%;
+}
+
+.d_flex {
+  display: flex;
+}
+
+.smal_img {
+  height: 100%;
+}
+
+.space_btw {
+  justify-content: space-between;
+}
+
+.w_100 {
+  width: 100%;
+}
+
+.w_60 {
+  width: 70%;
+}
+
+.footercontent {
+  width: 50%;
+  color: rgb(97, 97, 97);
+  font-size: 0.8rem;
+}
+
+.footercontent2 a {
+  border-right: 1px solid gray;
+  margin-right: 4px;
+  padding-right: 4px;
+}
+
+.mar_bot {
+  margin: 20px auto;
+}
+
+.col_blu {
+  color: #23739b;
+  text-decoration: none;
+}
+
+.col_white {
+  color: white;
+}
+
+.border-right {
+  margin-left: 4px;
+  border-right: 1px solid gray;
+  margin-right: 5px;
+  padding-right: 5px;
+}
+
+.marg_top {
+  margin-top: 8px;
+}
+
+.nav_grad {
+  height: 5vh;
+  background: linear-gradient(hsl(0, 0%, 45%) 30%, hsl(0, 0%, 43%) 49%, hsl(0, 0%, 35%) 50%, hsl(0, 0%, 45%) 90%);
+  border-radius: 3px;
+  top: 16%;
+  left: 15%;
+  color: white;
+}
+
+.pos_rel {
+  position: relative;
+}
+
+.nav_cont {
+  width: 10.6%;
+  justify-content: center;
+  border-right: 1px groove rgba(145, 123, 123, 0.514);
+}
+
+.nav_cont:hover {
+  background-color: rgb(58, 48, 48);
+}
+
+.alin_it_cen {
+  align-items: center;
+}
+
+.nav_cont_last {
+  width: 15.2%;
+}
+
+.input {
+  border-radius: 20px;
+  width: 95%;
+  background-color: inherit;
+  border: 1px groove gray;
+  margin-right: 4%;
+}
+
+.fa-search {
+  position: relative;
+  left: 11%;
+}
+
+.text {
+  width: 68%;
+  top: 24%;
+  color: white;
+  flex-direction: column;
+  opacity: 0.7;
+  font-size: x-large;
+  font-family: "Julius Sans One", sans-serif;
+}
+
+.text h1 {
+  margin-bottom: 14px;
+}
+
+.text h3 {
+  margin-bottom: 28px;
+  text-align: center;
+}
+
+.w_ab {
+  width: 1100px;
+}
