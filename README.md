@@ -15,7 +15,7 @@ tried to clone the webpage of old Apple.
 
 ## Live Demo
 
-[Live Demo Link](https://kingobaino1.github.io/New-York-Times-Page-Clone/)
+[Live Demo Link](https://hamayun-cpu.github.io/Apple-Page-Clone/)
 
 👤 **KingsLey**
 
