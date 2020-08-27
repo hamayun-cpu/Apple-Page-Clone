@@ -74,6 +74,10 @@
   text-decoration: none;
 }
 
+.col_white {
+  color: white;
+}
+
 .border-right {
   margin-left: 4px;
   border-right: 1px solid gray;
