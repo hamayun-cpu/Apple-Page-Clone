@@ -87,7 +87,12 @@
 
 .nav_grad {
   height: 5vh;
-  background: linear-gradient(hsl(0, 0%, 45%) 30%, hsl(0, 0%, 43%) 49%, hsl(0, 0%, 35%) 50%, hsl(0, 0%, 45%) 90%);
+  background: linear-gradient(
+    hsl(0, 0%, 45%) 30%,
+    hsl(0, 0%, 43%) 49%,
+    hsl(0, 0%, 35%) 50%,
+    hsl(0, 0%, 45%) 90%
+  );
   border-radius: 3px;
   top: 16%;
   left: 15%;
@@ -126,7 +131,7 @@
 
 .fa-search {
   position: relative;
-  margin-right: 4%;
+  left: 11%;
 }
 
 .text {
